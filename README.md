@@ -1,5 +1,7 @@
 # Hangman.github.io
 
+##Programming languages
+
 One of the most well known games created on Python.
 
 **RULES & RESOURCES**
